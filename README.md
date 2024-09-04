@@ -1,0 +1,1 @@
+# techchallenge-fiap-lambda-authorizer
